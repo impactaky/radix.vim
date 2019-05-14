@@ -1,3 +1,5 @@
+g:radix#repeat_enable	radix.txt	/*g:radix#repeat_enable*
 radix-contents	radix.txt	/*radix-contents*
+radix-customizing	radix.txt	/*radix-customizing*
+radix-mapping	radix.txt	/*radix-mapping*
 radix.txt	radix.txt	/*radix.txt*
-radix_mapping	radix.txt	/*radix_mapping*
